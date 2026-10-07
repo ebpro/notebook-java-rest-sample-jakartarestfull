@@ -1,3 +1,6 @@
 [submodule "ci-utils-java"]
 	path = ci-utils-java
 	url = git@github.com:ebpro/ci-utils-java.git
+[submodule "_quarto-utils"]
+	url = git@github.com:ebpro/_quarto-utils.git
+	path = _quarto-utils
